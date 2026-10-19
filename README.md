@@ -9,10 +9,10 @@ I believe in learning by building, understanding concepts deeply, and writing cl
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Java, Python, JavaScript
-- **Core Concepts:** OOP, Collections, Exception Handling, File Handling
+- **Core Concepts:** OOP, Collections, Exception Handling,Multi-Threading, File Handling
 - **Backend:** Spring Boot, REST APIs
 - **Database:** PostgreSQL, SQL
-- **Tools:** IntelliJ IDEA, Git, GitHub, Postman
+- **Tools:** IntelliJ IDEA, VS Code, Git, GitHub, Postman
 
 ## 🚀 Featured Projects
 
