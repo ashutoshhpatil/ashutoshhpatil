@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ashutosh Patil 👋
 
-<!--
-**ashutoshhpatil/ashutoshhpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Developer | Core Java | DSA | Backend Development
 
-Here are some ideas to get you started:
+I'm a Computer Engineering graduate focused on strengthening my Java development skills by building practical projects and solving programming problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in learning by building, understanding concepts deeply, and writing clean, maintainable code.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Java, Python, JavaScript
+- **Core Concepts:** OOP, Collections, Exception Handling, File Handling
+- **Backend:** Spring Boot, REST APIs
+- **Database:** PostgreSQL, SQL
+- **Tools:** IntelliJ IDEA, Git, GitHub, Postman
+
+## 🚀 Featured Projects
+
+- **Core Java Projects:** Hands-on applications built to practice Java fundamentals.
+- **Java Practice Problems:** Programs covering Java concepts and coding challenges.
+- **DSA Using Java:** Data structures and algorithms practice.
+- **AI Study Buddy:** An AI-powered learning assistant using Spring Boot.
+
+## 📚 Currently Learning
+
+- Advanced Core Java and Collections
+- Data Structures and Algorithms
+- Spring Boot and REST API development
+- Database integration and backend development
+
+## 🎯 My Goal
+
+To become a skilled Java Developer by continuously learning, building projects, and solving real-world problems.
+
+## 🤝 Connect With Me
+
+- GitHub: [@ashutoshhpatil](https://github.com/ashutoshhpatil)
